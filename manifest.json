@@ -1,0 +1,21 @@
+{
+    "name": "Adoos Lite",
+    "short_name": "Adoos Lite",
+    "icons": [
+        {
+            "src": "https://fede1608.github.io/mobilewebapp-sw-test/icon_adoos_vaquita.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        }
+    ],
+    "gcm_sender_id": "190512441367",
+    "gcm_user_visible_only": true,
+    "start_url": "/?utm_source=d3d3LmZsaXBrYXJ0Y2FyZWVycy5jb20&utm_medium=mobile&utm_campaign=homescreen",
+    "permissions": [
+        "gcm"
+    ],
+    "orientation": "portrait",
+    "display": "standalone",
+    "theme_color": "#D2232A",
+    "background_color": "#D2232A"
+}
