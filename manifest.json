@@ -10,7 +10,7 @@
     ],
     "gcm_sender_id": "190512441367",
     "gcm_user_visible_only": true,
-    "start_url": "/?utm_source=d3d3LmZsaXBrYXJ0Y2FyZWVycy5jb20&utm_medium=mobile&utm_campaign=homescreen",
+    "start_url": "/index.html",
     "permissions": [
         "gcm"
     ],
